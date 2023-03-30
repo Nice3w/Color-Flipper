@@ -1,6 +1,6 @@
 # Color-Flipper
 
-Sample site from John Smilga tutorials
+Sample site from John Smilga aka @CodingAddict tutorials
 
 https://johnsmilga.com/
 https://github.com/john-smilga/javascript-basic-projects
